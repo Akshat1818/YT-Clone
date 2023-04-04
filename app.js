@@ -47,7 +47,6 @@ const makeVideoCard = (data) => {
     `;
 }
 
-// search bar
 
 const searchInput = document.querySelector('.search-bar');
 const searchBtn = document.querySelector('.search-btn');
